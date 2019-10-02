@@ -3,9 +3,8 @@ package thederpgamer.atlascore.gui;
 import java.lang.reflect.Method;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Item;
-
-import main.java.thederpgamer.derpcore.items.CustomItem;
 import thederpgamer.atlascore.blocks.CustomBlock;
+import thederpgamer.atlascore.items.CustomItem;
 
 public class GUISlot {
 	public Item item;

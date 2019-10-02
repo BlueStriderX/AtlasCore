@@ -11,9 +11,8 @@ import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-
-import main.java.thederpgamer.derpcore.blocks.CustomBlockHandler;
-import main.java.thederpgamer.derpcore.blocks.CustomBlock;
+import thederpgamer.atlascore.blocks.CustomBlock;
+import thederpgamer.atlascore.blocks.CustomBlockHandler;
 
 public class Main extends JavaPlugin {
 	

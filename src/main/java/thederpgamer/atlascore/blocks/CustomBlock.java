@@ -2,9 +2,7 @@ package thederpgamer.atlascore.blocks;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
-
 import org.json.simple.parser.ParseException;
-
 import net.minecraft.server.v1_14_R1.Block;
 import net.minecraft.server.v1_14_R1.Blocks;
 import thederpgamer.atlascore.main.Main;

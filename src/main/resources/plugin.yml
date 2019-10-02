@@ -1,5 +1,5 @@
-main: thederpgamer.derpcore.main.Main
-name: DerpCore
+main: thederpgamer.AtlasCore.main.Main
+name: AtlasCore
 author: TheDerpGamerX
-version: 0.1
+version: 0.0.1
 api-version: 1.14

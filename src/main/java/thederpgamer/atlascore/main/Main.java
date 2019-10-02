@@ -17,8 +17,8 @@ import thederpgamer.atlascore.blocks.CustomBlockHandler;
 public class Main extends JavaPlugin {
 	
   private static Main plugin;
-  public String NAME = "DerpCore";
-  public String VERSION = "0.1";
+  public String NAME = "AtlasCore";
+  public String VERSION = "0.0.1";
   public String AUTHOR = "TheDerpGamerX";
   public String pluginFile = NAME + "v" + VERSION;
   
